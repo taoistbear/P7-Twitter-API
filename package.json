@@ -1,0 +1,30 @@
+{
+  "name": "p7-twitter-api",
+  "version": "1.0.0",
+  "description": "Twitter API for Full-Stack Tech Degree from Treehouse.com",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taoistbear/P7-Twitter-API.git"
+  },
+  "keywords": [
+    "Twitter",
+    "API",
+    "Treehouse",
+    "Tech-degree",
+    "Full-Stack",
+    "Node.js"
+  ],
+  "author": "Josh Kelly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taoistbear/P7-Twitter-API/issues"
+  },
+  "homepage": "https://github.com/taoistbear/P7-Twitter-API#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
