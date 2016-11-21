@@ -6,14 +6,14 @@
 
 #### Initial Steps :raised_hands:
 
-- [ ] Download the sample HTML and CSS files to see how the page should look after rendering your Twitter profile information.
-- [ ] Create a new Twitter application. This will generate the keys and access tokens you need to let your server communicate with Twitter. You can find instructions about this process in the project resources. Please note that the url to create a Twitter dev account is now https://apps.twitter.com/
+- [X] Download the sample HTML and CSS files to see how the page should look after rendering your Twitter profile information.
+- [X] Create a new Twitter application. This will generate the keys and access tokens you need to let your server communicate with Twitter. You can find instructions about this process in the project resources. Please note that the url to create a Twitter dev account is now https://apps.twitter.com/
 - [ ] Study the Twitter REST API docs to find which methods will provide the information you need to fill out the templates, based on the sample layout. The docs are linked in the project resources.
 - [ ] Search for some examples of authentication with Twitter in Node. You might not have written any authentication before, and you will benefit from exposing yourself to these ideas before your start. The project resources link to an example using several methods, including TwitterJSClient.
 
 #### Goals :exclamation:
 
-- [ ] Create a Twitter app through Twitter’s developer portal and get the needed API keys. Every service has a slightly different way of handling API keys and authentication. Check the project resources for some guides on getting your keys from Twitter.
+- [X] Create a Twitter app through Twitter’s developer portal and get the needed API keys. Every service has a slightly different way of handling API keys and authentication. Check the project resources for some guides on getting your keys from Twitter.
 - [ ] Make a template using Jade, Handlebars, or another JavaScript template engine for the main page. The template should have spaces for:
  - [ ]  :zap: your 5 most recent tweets :zap:
  - [ ]  :zap: your 5 most recent friends :zap:
